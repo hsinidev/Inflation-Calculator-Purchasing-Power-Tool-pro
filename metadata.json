@@ -1,0 +1,5 @@
+{
+  "name": "Inflation Calculator: Purchasing Power Tool",
+  "description": "A modern web application to calculate the historical purchasing power of money, demonstrating the effects of inflation over time using simulated CPI data. Features an animated galaxy theme and detailed financial insights.",
+  "requestFramePermissions": []
+}
