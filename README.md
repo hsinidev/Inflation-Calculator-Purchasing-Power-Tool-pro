@@ -9,8 +9,8 @@
   </p>
   
   <p align="center">
-    <a href="https://InflationCalculator.doodax.com" target="_blank">
-      <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-InflationCalculator.doodax.com-2ea44f?style=for-the-badge&logo=rocket" alt="Live Demo">
+    <a href="https://doodax.com/tools/inflation-calculator/index.html" target="_blank">
+      <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-doodax.com-2ea44f?style=for-the-badge&logo=rocket" alt="Live Demo">
     </a>
   </p>
 
